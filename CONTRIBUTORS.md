@@ -1,3 +1,7 @@
+#### Name: RUDRANSH SINGH MAHRA
+ - Place: New Delhi, Delhi
+ - Bio: 3rd Year Btech CSE Student
+ - GitHub: [Rudransh Singh Mahra](https://github.com/rudranshsinghmahra)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
